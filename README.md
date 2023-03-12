@@ -1,6 +1,6 @@
 
 <body>
-	<h1>Powershell-Scripts</h1>
+	<h1>Handy Powershell Scripts</h1>
 	<h2>csv_to_mssql_table.ps1</h2>
 	<p>This PowerShell script merges CSV files with the same header, moves the merged file to an archive folder, and bulk copies the data to a SQL server.</p>
 	<ul>
